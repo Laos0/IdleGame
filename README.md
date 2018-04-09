@@ -12,6 +12,7 @@ SchoolProject
 4) Use Unity to open the project
 5) Send me your gitHub user names so I add you to gitHub project, only then you can commit and push to my repo.
 6) Once I(Sony) have added you, I will let you know and you need to go to your gitHub and accept my invitation.
+7) On your top right corner of gitHub, there is a bell that will be a alerted icon, click on it and accept my invitation and you should be good to go.
 
 
 ## IMPORTANT NOTES
